@@ -1,0 +1,4 @@
+﻿  SimpleCalculatorform.cpp
+C:\Users\aksen\source\repos\SimpleCalculator1\SimpleCalculator1\SimpleCalculatorform.h(227,1): error C2059: синтаксическая ошибка: }
+C:\Users\aksen\source\repos\SimpleCalculator1\SimpleCalculator1\SimpleCalculatorform.h(227,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\aksen\source\repos\SimpleCalculator1\SimpleCalculator1\SimpleCalculatorform.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
